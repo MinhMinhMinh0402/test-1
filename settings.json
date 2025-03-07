@@ -1,0 +1,13 @@
+﻿{
+  "liveServer.settings.port": 5500,
+  "html.validate.scripts": true,
+  "html.validate.styles": true,
+  "css.validate": true,
+  "files.associations": {
+    "*.css": "css",
+    "*.html": "html"
+  },
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "terminal.integrated.defaultProfile.windows": "Command Prompt"
+}
